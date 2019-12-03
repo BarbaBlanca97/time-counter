@@ -3,7 +3,11 @@
 	"displayName": "Time register",
 	"description": "A simple time-elapsed counter for your proyect",
 	"publisher": "barbablanca97",
-	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BarbaBlanca97/time-counter.git"
+	},
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
