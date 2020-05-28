@@ -1,8 +1,8 @@
 {
 	"name": "timeregister",
-	"displayName": "Time register",
-	"description": "A simple time-elapsed counter for your proyect",
-	"publisher": "barbablanca97",
+	"displayName": "Time counter",
+	"description": "Un contador de tiempo transcurrido para tu proyecto",
+	"publisher": "BarbaBlanca97",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/BarbaBlanca97/time-counter.git"
